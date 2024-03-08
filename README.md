@@ -5,7 +5,7 @@
 <p align="center">
   <i>Notebook companion for the "Python for Aerospace" online course to learn the foundations of programming with Python for aerospace</i>
    <br/><br/>
-  <b><a href="pythonforaerospace.com">Course Site</a></b> | <b><a href="">Course on Udemy</a></b> | <b><a href="#course-contents-">Notebooks</a></b> | <b><a href="#about-the-instructor-">About the Instructor</a></b>
+  <b><a href="pythonforaerospace.com">Course Site</a></b> | <b><a href="#course-contents-">Notebooks</a></b> | <b><a href="#about-the-instructor-">About the Instructor</a></b>
   <br/><br/>
 </p>
 
@@ -13,7 +13,7 @@
 # Course Contents
 
 <details>
-  
+<summary><b><u>Preresquites & Set Up</u></b></summary>
 <summary><b><u>Chapter One: Python</u></b></summary>
 - [Lesson One: ]()
 
