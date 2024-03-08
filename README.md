@@ -14,10 +14,13 @@
 
 <details>
 <summary><b><u>Preresquites & Set Up</u></b></summary>
+</details>
+
+<details>
 <summary><b><u>Chapter One: Python</u></b></summary>
 - [Lesson One: ]()
-
 </details>
+
 
 
 <details>
@@ -30,4 +33,4 @@
 
 
 # About the Instructor
-## Created by [Angelina Tsuboi](angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](stellaryxlabs.com)
+Created by [Angelina Tsuboi](angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](stellaryxlabs.com)
