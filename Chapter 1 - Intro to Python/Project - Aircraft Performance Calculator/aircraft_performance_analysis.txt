@@ -1,0 +1,11 @@
+Performance Calculations:
+Range: 3000.0 miles
+Endurance: 20.0 hours
+Total Weight: 11000 pounds
+Center of Gravity Position: 1.1363636363636365 feet
+Lift: 183750.0 Newtons
+Drag: 2450.0 Newtons
+Weight: 49050.0 Newtons
+Acceleration: -9.1 m/s^2
+Velocity: -41.0 m/s
+Distance: -410.0 meters
