@@ -12,24 +12,63 @@
 
 # Course Contents
 
-<details>
+<details open>
 <summary><b><u>Preresquites & Set Up</u></b></summary>
-</details>
-
-<details>
-<summary><b><u>Chapter One: Python</u></b></summary>
-- [Lesson One: ]()
-</details>
-
-
-
-<details>
   
-<summary><b><u>Chapter Two</u></b></summary>
-- [Lesson One: ]()
+  - [Setting up Python and Jupyter Notebook](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%200%20-%20Prerequisites%20and%20Set%20Up)
 
 </details>
 
+<details open>
+<summary><b><u>Chapter One: Intro to Python</u></b></summary>
+  
+- [Lesson 1: Python Syntax](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_1_Python_Syntax.ipynb)
+- [Lesson 2: Handling Data](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_2_Handling_Data.ipynb)
+- [Lesson 3: Control Structures](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_3_Control_Structures.ipynb)
+- [Lesson 4: Functions and Modules](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_4_Functions_Modules.ipynb)
+- [Lesson 5: File and IO](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_5_Files_IO.ipynb)
+</details>
+
+
+<details open>
+<summary><b><u>Chapter Two: Libraries and Data Visualization</u></b></summary>
+  
+- [Lesson 1: NumPy](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_1_NumPy.ipynb)
+- [Lesson 2: Pandas](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_2_Pandas.ipynb)
+- [Lesson 3: Matplotlib](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_3_Matplotlib.ipynb)
+- [Lesson 4: Orbital Mechanics](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_4_Orbital_Mechanics.ipynb)
+- [Lesson 5: Orbital Visualizations and TLEs](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_5_TLE_Visualization.ipynb)
+</details>
+
+<details open>
+<summary><b><u>Chapter Three: Aerospace Libraries and File Formats</u></b></summary>
+  
+- [Lesson 1: FITS and AstroPy](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_1_FITS_Astropy.ipynb)
+- [Lesson 2: SPICE and SpiceyPy](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_2_SPICE_SpiceyPy.ipynb)
+- [Lesson 3: Skyfield and Horizons](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_3_Skyfield_Horizons.ipynb)
+- [Lesson 4: Specutils and Photutils](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_4_Utils.ipynb)
+- [Lesson 5: Exploring Datasets](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_5_Exploring_Datasets.ipynb)
+</details>
+
+<details open>
+<summary><b><u>Chapter Four: Data Insights and Mathematical Modeling</u></b></summary>
+  
+- [Lesson 1: Plotting](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_1_Plotting.ipynb)
+- [Lesson 2: SciPy and Differential Equations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_2_SciPy_Differential_Equations.ipynb)
+- [Lesson 3: Partial Differential Equations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_3_Partial_Differential_Equations.ipynb)
+- [Lesson 4: Image Analysis](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_4_Image_Analysis.ipynb)
+- [Lesson 5: Simulations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_5_Simulations.ipynb)
+</details>
+
+<details open>
+<summary><b><u>Chapter Five: Image Analysis and Simulations for Aerospace Applications</u></b></summary>
+  
+- [Lesson 1: Python Syntax](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_1_Python_Syntax.ipynb)
+- [Lesson 2: Handling Data](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_2_Handling_Data.ipynb)
+- [Lesson 3: Control Structures](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_3_Control_Structures.ipynb)
+- [Lesson 4: Functions and Modules](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_4_Functions_Modules.ipynb)
+- [Lesson 5: Exploring Datasets](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_5_Exploring_Datasets.ipynb)
+</details>
 
 
 # About the Instructor
