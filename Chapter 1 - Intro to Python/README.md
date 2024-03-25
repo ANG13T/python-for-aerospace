@@ -1,6 +1,6 @@
 ![https://github.com/ANG13T/python-for-aerospace/blob/main/banners/2.png](https://github.com/ANG13T/python-for-aerospace/blob/main/banners/2.png)
 
-# Chapter 1 - Intro to Python
+# Chapter 1: Intro to Python
 
 ## Lesson Outline
 - [Lesson 1: Python Syntax](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_1_Python_Syntax.ipynb)
