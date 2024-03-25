@@ -1,5 +1,7 @@
 ![https://github.com/ANG13T/python-for-aerospace/blob/main/banners/3.png](https://github.com/ANG13T/python-for-aerospace/blob/main/banners/3.png)
 
+# Chapter 2: Libraries and Data Visualization
+
 ## Lesson Outline
 
 - [Lesson 1: NumPy](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_1_NumPy.ipynb)
