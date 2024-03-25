@@ -6,7 +6,7 @@
 - [Jupyter Notebook](https://docs.jupyter.org/)
 - [Anaconda](https://www.anaconda.com/download)
 
-## Step 1: Downloading Python:
+## Step 1: Downloading Python
 To download Python, head over to the website below and follow the download instructions:
 [https://www.python.org/](https://www.python.org/)
 
