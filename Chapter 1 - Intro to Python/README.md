@@ -1,4 +1,4 @@
-![](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/assets/banner.png)
+![https://github.com/ANG13T/python-for-aerospace/blob/main/banners/2.png](https://github.com/ANG13T/python-for-aerospace/blob/main/banners/2.png)
 
 # Chapter 1 - Intro to Python
 
