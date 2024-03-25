@@ -1,6 +1,6 @@
 ![https://github.com/ANG13T/python-for-aerospace/blob/main/banners/6.png](https://github.com/ANG13T/python-for-aerospace/blob/main/banners/6.png)
 
-# Chapter 5: Image Analysis and Simulations for Aerospace Applications
+# Chapter 5: Image Analysis and Simulations
 
 ## Lesson Outline
 - [Lesson 1: Plotting](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_1_Plotting.ipynb)
