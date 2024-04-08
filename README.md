@@ -5,7 +5,7 @@
 <p align="center">
   <i>Notebook companion for the "Python for Aerospace" online course to learn the foundations of programming with Python for aerospace</i>
    <br/><br/>
-  <b><a href="https://pythonforaerospace.com">Course Site</a></b> | <b><a href="pythonforaerospace.com">Walkthrough Video</a></b> | <b><a href="#course-contents">Notebooks</a></b> | <b><a href="#about-the-instructor">About the Instructor</a></b>
+  <b><a href="https://pythonforaerospace.com">Course Site</a></b> | <b><a href="https://pythonforaerospace.com">Walkthrough Video</a></b> | <b><a href="#course-contents">Notebooks</a></b> | <b><a href="#about-the-instructor">About the Instructor</a></b>
   <br/><br/>
 </p>
 
@@ -56,18 +56,18 @@
 - [Lesson 1: Plotting](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_1_Plotting.ipynb)
 - [Lesson 2: SciPy and Differential Equations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_2_SciPy_Differential_Equations.ipynb)
 - [Lesson 3: Partial Differential Equations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_3_Partial_Differential_Equations.ipynb)
-- [Lesson 4: Image Analysis](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_4_Image_Analysis.ipynb)
+- [Lesson 4: Image Spectra Analysis](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_4_Image_Spectra_Analysis.ipynb)
 - [Lesson 5: Simulations](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Lesson_5_Simulations.ipynb)
 </details>
 
 <details open>
 <summary><b><u>🛰️ Chapter Five: Image Analysis and Simulations for Aerospace Applications</u></b></summary>
   
-- [Lesson 1: Python Syntax](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_1_Python_Syntax.ipynb)
-- [Lesson 2: Handling Data](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_2_Handling_Data.ipynb)
-- [Lesson 3: Control Structures](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_3_Control_Structures.ipynb)
-- [Lesson 4: Functions and Modules](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%201%20-%20Intro%20to%20Python/Lesson_4_Functions_Modules.ipynb)
-- [Lesson 5: Exploring Datasets](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_5_Exploring_Datasets.ipynb)
+- [Lesson 1: GUI](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_1_GUI.ipynb)
+- [Lesson 2: Simulation Interactives](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_2_Simulation_Interactives.ipynb)
+- [Lesson 3: Styling Interactives](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_3_Styling_Interactives.ipynb)
+- [Lesson 4: Exporting Files](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_4_Exporting_Files.ipynb)
+- [Lesson 5: Integrated Applications](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_5_Integrated_Applications.ipynb)
 </details>
 
 # Projects
@@ -80,4 +80,4 @@
 - [Chapter 5:  Satellite Trajectory Analysis](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%205%20-%20Interactive%20Applications/Project%20-%20Satellite%20Trajectory%20Analysis%20GUI)
 
 # About the Instructor
-Created by [Angelina Tsuboi](angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](stellaryxlabs.com)
+Created by [Angelina Tsuboi](https://angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](https://stellaryxlabs.com)
