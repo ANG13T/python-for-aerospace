@@ -10,4 +10,6 @@
 - [Lesson 4: Orbital Mechanics](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_4_Orbital_Mechanics.ipynb)
 - [Lesson 5: Orbital Visualizations and TLEs](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Lesson_5_TLE_Visualization.ipynb)
 
-## Project: Solar System Orbital Visualization
+## Project: [Solar System Orbital Visualization](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Project%20-%20Solar%20System%20Orbital%20Visualization/Solar_System_Visualization.ipynb)
+
+![https://github.com/ANG13T/python-for-aerospace/blob/main/media/project_media/2.png?raw=true](https://github.com/ANG13T/python-for-aerospace/blob/main/media/project_media/2.png?raw=true)
