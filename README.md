@@ -70,6 +70,14 @@
 - [Lesson 5: Exploring Datasets](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Lesson_5_Exploring_Datasets.ipynb)
 </details>
 
+# Projects
+![https://github.com/ANG13T/python-for-aerospace/blob/main/media/projects.png](https://github.com/ANG13T/python-for-aerospace/blob/main/media/projects.png)
+
+- [Chapter 1: Aircraft Performance Calculator](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%201%20-%20Intro%20to%20Python/Project%20-%20Aircraft%20Performance%20Calculator)
+- [Chapter 2: Solar System Orbital Visualization](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%202%20-%20Libraries%20and%20Data%20Visualization/Project%20-%20Solar%20System%20Orbital%20Visualization)
+- [Chapter 3: Satellite Tracker](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%203%20-%20Aerospace%20Libraries%20and%20File%20Formats/Project%20-%20Satellite%20Tracker)
+- [Chapter 4: Rocket Equation Numerical Solver](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Project%20-%20Rocket%20Equation%20Numerical%20Solver)
+- [Chapter 5:  Satellite Trajectory Analysis](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%205%20-%20Interactive%20Applications/Project%20-%20Satellite%20Trajectory%20Analysis%20GUI)
 
 # About the Instructor
 Created by [Angelina Tsuboi](angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](stellaryxlabs.com)
