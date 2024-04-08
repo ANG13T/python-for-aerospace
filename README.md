@@ -79,5 +79,8 @@
 - [Chapter 4: Rocket Equation Numerical Solver](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%204%20-%20Data%20Insights%20and%20Mathematical%20Modeling/Project%20-%20Rocket%20Equation%20Numerical%20Solver)
 - [Chapter 5:  Satellite Trajectory Analysis](https://github.com/ANG13T/python-for-aerospace/tree/main/Chapter%205%20-%20Interactive%20Applications/Project%20-%20Satellite%20Trajectory%20Analysis%20GUI)
 
+# Praise for Python for Aerospace
+![https://github.com/ANG13T/python-for-aerospace/blob/main/media/testimonials.jpg](https://github.com/ANG13T/python-for-aerospace/blob/main/media/testimonials.jpg)
+
 # About the Instructor
 Created by [Angelina Tsuboi](https://angelinatsuboi.com) (aka G4LXY) for [Stellaryx Labs](https://stellaryxlabs.com)
