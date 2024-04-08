@@ -61,7 +61,7 @@
 </details>
 
 <details open>
-<summary><b><u>🛰️ Chapter Five: Image Analysis and Simulations for Aerospace Applications</u></b></summary>
+<summary><b><u>🛰️ Chapter Five: Interactive Applications</u></b></summary>
   
 - [Lesson 1: GUI](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_1_GUI.ipynb)
 - [Lesson 2: Simulation Interactives](https://github.com/ANG13T/python-for-aerospace/blob/main/Chapter%205%20-%20Interactive%20Applications/Lesson_2_Simulation_Interactives.ipynb)
