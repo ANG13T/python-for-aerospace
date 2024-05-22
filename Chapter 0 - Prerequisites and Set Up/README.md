@@ -14,10 +14,6 @@ To download Python, head over to the website below and follow the download instr
 
 To ensure you have Python downloaded, run the following command in your terminal after installation:
 ```
-python3 --version
-```
-or 
-```
 python --version
 ```
 You should get a version number as your output, like the following:
@@ -29,11 +25,11 @@ Python 3.8.4
 
 To check if you have pip downloaded, run the following command:
 ```
-pip3 -V
+pip -V
 ```
 or 
 ```
-pip3 --version
+pip --version
 ```
 If you get an error, you will need to install pip using Python. To do so:
 1. Download the script `get-pip.py`, from https://bootstrap.pypa.io/get-pip.py
@@ -50,7 +46,8 @@ Download Anaconda using the latest Python 3 version (currently Python 3.9):
 Install the version of Anaconda which you downloaded, following the instructions on the download page.
 
 ## Step 4: Downloading Jupyter Notebook:
-
+Download the latest version of Jupyter notebook by referring to this link: 
+[https://docs.jupyter.org/en/latest/install/notebook-classic.html](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
 To start using Jupyter Notebook, you can run the following command in your terminal:
 ```
 jupyter notebook
