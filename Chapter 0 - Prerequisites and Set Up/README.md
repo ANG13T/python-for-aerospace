@@ -14,6 +14,10 @@ To download Python, head over to the website below and follow the download instr
 
 To ensure you have Python downloaded, run the following command in your terminal after installation:
 ```
+python3 --version
+```
+or 
+```
 python --version
 ```
 You should get a version number as your output, like the following:
@@ -25,7 +29,11 @@ Python 3.8.4
 
 To check if you have pip downloaded, run the following command:
 ```
-pip -V
+pip3 -V
+```
+or 
+```
+pip3 --version
 ```
 If you get an error, you will need to install pip using Python. To do so:
 1. Download the script `get-pip.py`, from https://bootstrap.pypa.io/get-pip.py
