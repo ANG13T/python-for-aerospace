@@ -1,1 +1,8 @@
-MercurySurface Gravity (g): 0.38Surface Temperature (K): 440VenusSurface Gravity (g): 0.91Surface Temperature (K): 737EarthSurface Gravity (g): 1.0Surface Temperature (K): 288MarsSurface Gravity (g): 0.38Surface Temperature (K): 210JupiterSurface Gravity (g): 2.34Surface Temperature (K): 120SaturnSurface Gravity (g): 0.93Surface Temperature (K): 80UranusSurface Gravity (g): 0.92Surface Temperature (K): 60NeptuneSurface Gravity (g): 1.12Surface Temperature (K): 50
+Mercury Surface Gravity (g): 0.38 Surface Temperature (K): 440 
+Venus Surface Gravity (g): 0.91 Surface Temperature (K): 737 
+Earth Surface Gravity (g): 1.0 Surface Temperature (K): 288 
+Mars Surface Gravity (g): 0.38 Surface Temperature (K): 210 
+Jupiter Surface Gravity (g): 2.34 Surface Temperature (K): 120 
+Saturn Surface Gravity (g): 0.93 Surface Temperature (K): 80 
+Uranus Surface Gravity (g): 0.92 Surface Temperature (K): 60 
+Neptune Surface Gravity (g): 1.12 Surface Temperature (K): 50 
